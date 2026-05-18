@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+# Build artifacts
+build/
+dist/
+*.spec.bak
+
+# Local/generated outputs
+*.epub
+*.txt
+
+# OS/editor
+.DS_Store
+Thumbs.db
